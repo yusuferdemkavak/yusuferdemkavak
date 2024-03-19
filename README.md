@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yusuf Erdem Kavak</h1>
-<h3 align="center">I'm aged 15. I'm a student and a beginner game developer who has been game developing for about a year. I haven't published any games yet but im planing to finish and publish one. I prefer 2D games over 3D games so i ussually play 2D games and work on 2D games.</h3>
+<h3 align="center">I'm aged 17. I'm a student and a beginner game developer who has been game developing for about a year. I haven't published any games yet but im planing to finish and publish one. I prefer 2D games over 3D games so i ussually play 2D games and work on 2D games.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusuferdemkavak&label=Profile%20views&color=0e75b6&style=flat" alt="yusuferdemkavak" /> </p>
 
