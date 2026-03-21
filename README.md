@@ -13,9 +13,9 @@ typedef struct GameDev
 
 int main(void)
 {
+  //-----Initialize-----//
   GameDev ME;
 
-  //-----Initialize-----//
   // initialize personal info
   ME.name = "Yusuf Erdem Kavak";
   ME.age = 19;
